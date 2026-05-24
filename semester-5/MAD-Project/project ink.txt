@@ -1,0 +1,1 @@
+https://snack.expo.dev/@appzzdev/stem-app?platform=android
